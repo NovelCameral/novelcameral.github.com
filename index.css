@@ -1,0 +1,104 @@
+body {
+	/*border:2px solid red;*/
+	background-repeat: no-repeat;
+	background-image:url("csp_background3.jpg");
+	margin:0 0 auto 0;
+	background-attachment: fixed;
+}
+
+h1{
+	color: #FFFFFF;
+	font-family: Verdana;
+	font-size:;
+	font-weight: bold;
+	text-align: center;
+	/*border:2px solid #008200;*/
+	display:inline-block;
+}
+p {
+	font-family: "Arial Narrow";
+	font-size:15px;
+	font-weight:bold;
+}
+#tophead {
+	/*border:2px solid blue;*/
+	background-color: #000000;
+	width:100%;
+	opacity:0.8;
+	text-align:center;
+	position: fixed;
+}
+#poem {
+	padding-top:10px;
+	padding-left:50px;
+}
+
+#leftcolum{
+	width:700px;
+	height:500px;
+	/*border:2px solid #6666FF;*/	
+	padding-top:100px;
+}
+#rightcolum{
+	width:700px;
+	height:500px;
+	/*border:2px solid #6666FF;*/
+	float: right;
+	padding-top:100px;
+}
+#login{
+	width:600px;
+	height:400px;
+	margin-top:50px;
+	/*border:2px solid #000080;*/
+	border-radius: 15px;
+	background-color: #3E1A01;
+	opacity: 0.5;
+	box-shadow:10px 10px 5px;
+}
+#login p{
+	color:#FFFFAA;
+	font-family: Verdana;
+	font-size:20px;
+	text-align:center;
+	margin-top:20px;
+	padding-top:20px;
+	/*border:2px solid #000080;*/
+}
+p.inputname{
+	color:;
+	margin-top:0px;
+	margin-bottom:0px;
+	/*border:2px solid red;*/
+}
+#username {
+	width:450;
+	font-size:50px;
+	margin-left:75px;
+	border-radius: 5px;
+}
+#password {
+	width:450;
+	font-size:50px;
+	border-radius:5px;
+	margin-left:75px;
+}
+
+#loginbutton{
+	width:200px;
+	height: 60px;
+	font-size:30px;
+	font-family:Verdana;
+	font-weight:bold;
+	color:#F6F5EE;
+	margin-left:200px;
+	margin-top:20px;
+	border-radius:5px;
+	background-color:#000000;
+	border:none;
+	opacity: 1;
+}
+
+ul{
+	margin-top:40px;
+}
